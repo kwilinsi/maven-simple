@@ -1,9 +1,9 @@
 package examples;
 
-import botUtilities.commandsSystem.manager.CommandManager;
-import botUtilities.commandsSystem.manager.CommandUtils;
-import botUtilities.commandsSystem.manager.ManagerConfig;
-import botUtilities.exceptions.ManagerBuildException;
+import com.github.kwilinsi.jda.command.manager.commandsSystem.manager.CommandManager;
+import com.github.kwilinsi.jda.command.manager.commandsSystem.manager.CommandUtils;
+import com.github.kwilinsi.jda.command.manager.commandsSystem.manager.ManagerConfig;
+import com.github.kwilinsi.jda.command.manager.exceptions.ManagerBuildException;
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.JDABuilder;
 import net.dv8tion.jda.api.events.Event;
