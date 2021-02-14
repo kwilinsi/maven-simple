@@ -1,4 +1,4 @@
-package com.github.kwilinsi.jda.command.manager;
+package com.github.kwilinsi;
 
 public class Main {
     public static void main(String[] args) {
