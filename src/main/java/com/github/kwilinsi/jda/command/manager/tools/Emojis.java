@@ -1,8 +1,8 @@
 package com.github.kwilinsi.jda.command.manager.tools;
 
 /**
- * This is just a small class containing some of the emojis used in Discord. These are emojis that I found useful in
- * relation to the commands library.
+ * This is just a small reference class containing some of the emojis used in Discord. These are emojis that I found
+ * useful in relation to the commands library.
  * <p><br>
  * Each constant is given the name that Discord assigns it, and it is set to the unicode version of that emoji.
  */
